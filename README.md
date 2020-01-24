@@ -15,4 +15,4 @@ In this way, you are all very welcome to contact me to present a paper (paul.cai
 
 | Date | Presenter | Paper | Presentation |
 |-------------|-------------|------------------------------|------|
-| TBD | Paul | Kenji Kawaguchi, Jiaoyang Huang. **Gradient Descent Finds Global Minima for Generalizable Deep Neural Networks of Practical Sizes** | 
+| 29/01/2020 | Paul | Kenji Kawaguchi, Jiaoyang Huang. **Gradient Descent Finds Global Minima for Generalizable Deep Neural Networks of Practical Sizes** | 
