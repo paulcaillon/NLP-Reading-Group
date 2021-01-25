@@ -17,4 +17,4 @@ In this way, you are all very welcome to contact me to present a paper (paul.cai
 |-------------|-------------|------------------------------|------|
 | 29/01/2020 | Paul | Kenji Kawaguchi, Jiaoyang Huang. **Gradient Descent Finds Global Minima for Generalizable Deep Neural Networks of Practical Sizes** | [Presentation 1](https://github.com/paulcaillon/NLP-Reading-Group/blob/master/ReadingGroup1.pdf)
 | 12/02/2020 | Paul | Xiaoliang Dai, Hongxu Yin, Niraj K. Jha. **NeST: A Neural Network Synthesis Tool Based on a Grow-and-Prune Paradigm** | [Presentation 2](https://github.com/paulcaillon/NLP-Reading-Group/blob/master/ReadingGroup2.pdf)
-| 11/03/2020 | Paul | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter. **Neural Architecture Search: A Survey** | 
+| 11/03/2020 | Paul | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter. **Neural Architecture Search: A Survey** | [Presentation 3](https://github.com/paulcaillon/NLP-Reading-Group/blob/master/ReadingGroup3.pdf)
