@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/paulcaillon/NLP-Reading-Group/master/logo_loria_complet.jpg?raw=true?raw=true" width=200px />
 </p>
 
-This page is dedicated to the NLP reading group at Loria organized by the [SyNaLP Team](https://synalp.loria.fr). 
+This page is dedicated to the Reading Group at Loria organized by the [SyNaLP Team](https://synalp.loria.fr). 
 
 This reading group is the designated successor of the previous ones organized by Timothee Mickus ([here](https://timotheemickus.github.io/reading_group.html)) and [Hoa Le](https://lethienhoablog.wordpress.com) ([here](https://github.com/lethienhoa/Deep-Learning-and-Natural-Language-Understanding-Reading-Group)).
 
